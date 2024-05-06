@@ -1,0 +1,183 @@
+0: a plate of food with meat and vegetables on it . 
+0: a plate of food with a fork on a table . 
+0: a table with a plate of rice , a bowl of curry , and a bowl of rice . 
+0: a table with plates of food and bowls of rice . 
+0: a variety of food is shown on a table . 
+0: a table with plates of food and water on it . 
+0: a table with plates of food and a bowl of rice . 
+1: a wooden cutting board with some meat and a drink 
+1: a plate of chicken wings and celery sticks . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a wooden cutting board with some meat on it 
+1: a bowl of chicken wings with a side of celery . 
+2: a plate of food with shrimp and rice on it . 
+2: a variety of sushi rolls on a plate . 
+2: a plate of sushi and other food items . 
+2: a plate of food on a table with a candle in the background . 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of food with a sauce on it . 
+2: a close up of a plate of sushi 
+2: a sushi roll with a variety of toppings . 
+2: a plate of sushi and a plate of chopsticks . 
+2: a plate of food that is on a table . 
+2: a plate of sushi with sauce and green onions . 
+2: a wooden table topped with sushi rolls covered in sauce . 
+2: a plate of sushi with a variety of toppings . 
+2: two plates of sushi on a table . 
+2: a sushi roll with salmon , avocado , and other toppings . 
+2: a sushi roll is on a plate with sauce . 
+2: a plate of sushi with sauce and a fork . 
+2: a close up of a plate of food with rice 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of sushi and other food on a table . 
+2: a close up of a sushi roll on a plate 
+2: a plate of sushi with a variety of sushi rolls . 
+2: a plate of sushi and other food on a table . 
+2: a sushi roll with sauce on a plate . 
+15: a tray of oysters with a lemon and a couple of dipping sauces . 
+15: a table topped with lots of raw oysters . 
+15: a table with plates of food on it 
+15: a plate of food with a sandwich and some potatoes . 
+15: a plate of food with a lemon wedge and a fork . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of food with a slice of lemon on top of it . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of oysters with a lemon wedge on the side . 
+15: a plate of oysters with a lemon and a drink . 
+15: a tray of oysters with lemon and sauce . 
+15: a plate of oysters with lemon and a sauce . 
+15: a tray of oysters with ice and a lemon wedge . 
+56: a pizza sitting on top of a pan on a table . 
+56: a pepperoni pizza sitting on top of a pan . 
+56: two different pizzas with different toppings on them . 
+56: a pizza sitting on top of a metal pan . 
+56: a pizza sitting on top of a pan on a table . 
+56: a close up of a pizza on a plate 
+56: a pizza sitting on top of a pan on top of a table . 
+56: a pizza with olives and mushrooms on top of it . 
+56: a pizza with mushrooms , peppers , and pepperoni on a pan . 
+56: a pepperoni pizza is shown on a plate . 
+0: a plate of food with meat and vegetables on it . 
+0: a plate of food with a fork on a table . 
+0: a table with a plate of rice , a bowl of curry , and a bowl of rice . 
+0: a table with plates of food and bowls of rice . 
+0: a variety of food is shown on a table . 
+0: a table with plates of food and water on it . 
+0: a table with plates of food and a bowl of rice . 
+1: a wooden cutting board with some meat and a drink 
+1: a plate of chicken wings and celery sticks . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a wooden cutting board with some meat on it 
+1: a bowl of chicken wings with a side of celery . 
+2: a plate of food with shrimp and rice on it . 
+2: a variety of sushi rolls on a plate . 
+2: a plate of sushi and other food items . 
+2: a plate of food on a table with a candle in the background . 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of food with a sauce on it . 
+2: a close up of a plate of sushi 
+2: a sushi roll with a variety of toppings . 
+2: a plate of sushi and a plate of chopsticks . 
+2: a plate of food that is on a table . 
+2: a plate of sushi with sauce and green onions . 
+2: a wooden table topped with sushi rolls covered in sauce . 
+2: a plate of sushi with a variety of toppings . 
+2: two plates of sushi on a table . 
+2: a sushi roll with salmon , avocado , and other toppings . 
+2: a sushi roll is on a plate with sauce . 
+2: a plate of sushi with sauce and a fork . 
+2: a close up of a plate of food with rice 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of sushi and other food on a table . 
+2: a close up of a sushi roll on a plate 
+2: a plate of sushi with a variety of sushi rolls . 
+2: a plate of sushi and other food on a table . 
+2: a sushi roll with sauce on a plate . 
+15: a tray of oysters with a lemon and a couple of dipping sauces . 
+15: a table topped with lots of raw oysters . 
+15: a table with plates of food on it 
+15: a plate of food with a sandwich and some potatoes . 
+15: a plate of food with a lemon wedge and a fork . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of food with a slice of lemon on top of it . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of oysters with a lemon wedge on the side . 
+15: a plate of oysters with a lemon and a drink . 
+15: a tray of oysters with lemon and sauce . 
+15: a plate of oysters with lemon and a sauce . 
+15: a tray of oysters with ice and a lemon wedge . 
+56: a pizza sitting on top of a pan on a table . 
+56: a pepperoni pizza is sitting on a table . 
+56: two different pizzas with different toppings on them . 
+56: a pizza sitting on top of a metal pan . 
+56: a pizza sitting on top of a pan on a table . 
+56: a close up of a pizza on a plate 
+56: a pizza sitting on top of a pan on top of a table . 
+56: a pizza with olives and mushrooms on top of it . 
+56: a pizza with mushrooms , peppers , and pepperoni on a pan . 
+56: a pepperoni pizza is shown on a plate . 
+0: a plate of food with meat and vegetables on it . 
+0: a plate of food with a fork on a table . 
+0: a table with a plate of rice , a bowl of curry , and a bowl of rice . 
+0: a table with plates of food and bowls of rice . 
+0: a variety of food is shown on a table . 
+0: a table with plates of food and water on it . 
+0: a table with plates of food and a bowl of rice . 
+1: a wooden cutting board with some meat and a drink 
+1: a plate of chicken wings and celery sticks . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a plate of ribs , fries , and coleslaw with a beer . 
+1: a wooden cutting board with some meat on it 
+1: a bowl of chicken wings with a side of celery . 
+2: a plate of food with shrimp and rice on it . 
+2: a variety of sushi rolls on a plate . 
+2: a plate of sushi and other food items . 
+2: a plate of food on a table with a candle in the background . 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of food with a sauce on it . 
+2: a close up of a plate of sushi 
+2: a sushi roll with a variety of toppings . 
+2: a plate of sushi and a plate of chopsticks . 
+2: a plate of food that is on a table . 
+2: a plate of sushi with sauce and green onions . 
+2: a wooden table topped with sushi rolls covered in sauce . 
+2: a plate of sushi with a variety of toppings . 
+2: two plates of sushi on a table . 
+2: a sushi roll with salmon , avocado , and other toppings . 
+2: a sushi roll is on a plate with sauce . 
+2: a plate of sushi with sauce and a fork . 
+2: a close up of a plate of food with rice 
+2: a plate of sushi with a variety of toppings . 
+2: a plate of sushi and other food on a table . 
+2: a close up of a sushi roll on a plate 
+2: a plate of sushi with a variety of sushi rolls . 
+2: a plate of sushi and other food on a table . 
+2: a sushi roll with sauce on a plate . 
+15: a tray of oysters with a lemon and a couple of dipping sauces . 
+15: a table topped with lots of raw oysters . 
+15: a table with plates of food on it 
+15: a plate of food with a sandwich and some potatoes . 
+15: a plate of food with a lemon wedge and a fork . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of food with a slice of lemon on top of it . 
+15: a table with a black and white checkered table cloth and a black and white checkered table cloth with a black and white checkered table 
+15: a plate of oysters with a lemon wedge on the side . 
+15: a plate of oysters with a lemon and a drink . 
+15: a tray of oysters with lemon and sauce . 
+15: a plate of oysters with lemon and a sauce . 
+15: a tray of oysters with ice and a lemon wedge . 
+56: a pizza sitting on top of a pan on a table . 
+56: a pepperoni pizza is sitting on a table . 
+56: two different pizzas with different toppings on them . 
+56: a pizza sitting on top of a metal pan . 
+56: a pizza sitting on top of a pan on a table . 
+56: a close up of a pizza on a plate 
+56: a pizza sitting on top of a pan on top of a table . 
+56: a pizza with olives and mushrooms on top of it . 
+56: a pizza with mushrooms , peppers , and pepperoni on a pan . 
+56: a pepperoni pizza is shown on a plate . 
